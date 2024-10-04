@@ -143,7 +143,8 @@ M.rand_colorscheme = function()
   return colorscheme
 end
 
-M.rand_colorscheme()
+-- M.rand_colorscheme()
+M.colorscheme_conf["sonokai"]()
 
 -- enable the experiment UI
 require("vim._core.ui2").enable {
