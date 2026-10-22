@@ -6,3 +6,6 @@ en.utf-8.add.spl
 .DS_Store
 lazy-lock.json
 .env*
+
+# Manually-downloaded binaries (fetched by ~/dotfiles/tweaks/fedora/nvim.sh)
+manual-bins/
